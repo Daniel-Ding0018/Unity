@@ -1,0 +1,136 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Daniel Ding\\My project (1)\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E1CE1FEE-67BE-6533-73AA-CC578BE80DCD}|Assembly-CSharp.csproj|c:\\users\\daniel ding\\my project (1)\\assets\\blockmovement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E1CE1FEE-67BE-6533-73AA-CC578BE80DCD}|Assembly-CSharp.csproj|solutionrelative:assets\\blockmovement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E1CE1FEE-67BE-6533-73AA-CC578BE80DCD}|Assembly-CSharp.csproj|C:\\Users\\Daniel Ding\\My project (1)\\assets\\playercollectblue.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E1CE1FEE-67BE-6533-73AA-CC578BE80DCD}|Assembly-CSharp.csproj|solutionrelative:assets\\playercollectblue.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E1CE1FEE-67BE-6533-73AA-CC578BE80DCD}|Assembly-CSharp.csproj|C:\\Users\\Daniel Ding\\My project (1)\\assets\\redagentnavigation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E1CE1FEE-67BE-6533-73AA-CC578BE80DCD}|Assembly-CSharp.csproj|solutionrelative:assets\\redagentnavigation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E1CE1FEE-67BE-6533-73AA-CC578BE80DCD}|Assembly-CSharp.csproj|C:\\Users\\Daniel Ding\\My project (1)\\assets\\charactermovement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E1CE1FEE-67BE-6533-73AA-CC578BE80DCD}|Assembly-CSharp.csproj|solutionrelative:assets\\charactermovement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E1CE1FEE-67BE-6533-73AA-CC578BE80DCD}|Assembly-CSharp.csproj|C:\\Users\\Daniel Ding\\My project (1)\\assets\\pinkagentnavigation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E1CE1FEE-67BE-6533-73AA-CC578BE80DCD}|Assembly-CSharp.csproj|solutionrelative:assets\\pinkagentnavigation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E1CE1FEE-67BE-6533-73AA-CC578BE80DCD}|Assembly-CSharp.csproj|C:\\Users\\Daniel Ding\\My project (1)\\assets\\greenagentnavigation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E1CE1FEE-67BE-6533-73AA-CC578BE80DCD}|Assembly-CSharp.csproj|solutionrelative:assets\\greenagentnavigation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E1CE1FEE-67BE-6533-73AA-CC578BE80DCD}|Assembly-CSharp.csproj|C:\\Users\\Daniel Ding\\My project (1)\\assets\\followplayer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E1CE1FEE-67BE-6533-73AA-CC578BE80DCD}|Assembly-CSharp.csproj|solutionrelative:assets\\followplayer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "BlockMovement.cs",
+              "DocumentMoniker": "C:\\Users\\Daniel Ding\\My project (1)\\Assets\\BlockMovement.cs",
+              "RelativeDocumentMoniker": "Assets\\BlockMovement.cs",
+              "ToolTip": "C:\\Users\\Daniel Ding\\My project (1)\\Assets\\BlockMovement.cs",
+              "RelativeToolTip": "Assets\\BlockMovement.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAQwBcAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-17T15:58:12.981Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "PlayerCollectBlue.cs",
+              "DocumentMoniker": "C:\\Users\\Daniel Ding\\My project (1)\\Assets\\PlayerCollectBlue.cs",
+              "RelativeDocumentMoniker": "Assets\\PlayerCollectBlue.cs",
+              "ToolTip": "C:\\Users\\Daniel Ding\\My project (1)\\Assets\\PlayerCollectBlue.cs",
+              "RelativeToolTip": "Assets\\PlayerCollectBlue.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAA/AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-17T15:55:39.751Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "RedAgentNavigation.cs",
+              "DocumentMoniker": "C:\\Users\\Daniel Ding\\My project (1)\\Assets\\RedAgentNavigation.cs",
+              "RelativeDocumentMoniker": "Assets\\RedAgentNavigation.cs",
+              "ToolTip": "C:\\Users\\Daniel Ding\\My project (1)\\Assets\\RedAgentNavigation.cs",
+              "RelativeToolTip": "Assets\\RedAgentNavigation.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-17T15:55:15.918Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "GreenAgentNavigation.cs",
+              "DocumentMoniker": "C:\\Users\\Daniel Ding\\My project (1)\\Assets\\GreenAgentNavigation.cs",
+              "RelativeDocumentMoniker": "Assets\\GreenAgentNavigation.cs",
+              "ToolTip": "C:\\Users\\Daniel Ding\\My project (1)\\Assets\\GreenAgentNavigation.cs",
+              "RelativeToolTip": "Assets\\GreenAgentNavigation.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-17T15:46:13.203Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "PinkAgentNavigation.cs",
+              "DocumentMoniker": "C:\\Users\\Daniel Ding\\My project (1)\\Assets\\PinkAgentNavigation.cs",
+              "RelativeDocumentMoniker": "Assets\\PinkAgentNavigation.cs",
+              "ToolTip": "C:\\Users\\Daniel Ding\\My project (1)\\Assets\\PinkAgentNavigation.cs",
+              "RelativeToolTip": "Assets\\PinkAgentNavigation.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-17T15:18:51.481Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "FollowPlayer.cs",
+              "DocumentMoniker": "C:\\Users\\Daniel Ding\\My project (1)\\Assets\\FollowPlayer.cs",
+              "RelativeDocumentMoniker": "Assets\\FollowPlayer.cs",
+              "ToolTip": "C:\\Users\\Daniel Ding\\My project (1)\\Assets\\FollowPlayer.cs",
+              "RelativeToolTip": "Assets\\FollowPlayer.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-17T13:25:45.045Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "characterMovement.cs",
+              "DocumentMoniker": "C:\\Users\\Daniel Ding\\My project (1)\\Assets\\characterMovement.cs",
+              "RelativeDocumentMoniker": "Assets\\characterMovement.cs",
+              "ToolTip": "C:\\Users\\Daniel Ding\\My project (1)\\Assets\\characterMovement.cs",
+              "RelativeToolTip": "Assets\\characterMovement.cs",
+              "ViewState": "AQIAAF0AAAAAAAAAAAAmwC4AAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-17T07:17:09.252Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
